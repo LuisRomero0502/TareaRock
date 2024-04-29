@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097194327028",
+    "project_id": "rock-2ebaf",
+    "storage_bucket": "rock-2ebaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097194327028:android:f44bf29f3ee02a029507a1",
+        "android_client_info": {
+          "package_name": "com.fernandojzo.rocky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsSQNHXsPmvu8A-UD46a3TrfsmQE_FFlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
